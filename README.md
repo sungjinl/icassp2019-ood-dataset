@@ -1,5 +1,5 @@
 # AE-HCN Datasets (ICASSP 2019) 
-Code for the paper "Contextual Out-of-Domain Utterance Handling with Counterfeit Data Augmentation" by [Sungjin Lee](https://www.microsoft.com/en-us/research/people/sule/) and [Igor Shalyminov](https://ishalyminov.github.io) [[Paper]](https://ieeexplore.ieee.org/document/8683019)
+Data for the paper "Contextual Out-of-Domain Utterance Handling with Counterfeit Data Augmentation" by [Sungjin Lee](https://www.microsoft.com/en-us/research/people/sule/) and [Igor Shalyminov](https://ishalyminov.github.io) [[Paper]](https://ieeexplore.ieee.org/document/8683019)
 
 ![](dialog.jpg)
 
